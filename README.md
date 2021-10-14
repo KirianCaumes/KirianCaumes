@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**KirianCaumes/KirianCaumes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [General Kenobi... 🤺](https://youtu.be/rEq1Z0bjdwc)
 
-Here are some ideas to get you started:
+💁‍♂️ I'm **Kirian CAUMES**, a **24 years old** **full stack developer**, located near **Nantes, France** 🇫🇷.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 I've been working in the IT industry for more than **5 years** now. My studies at Ynov Nantes with my master's degree in "**Web Development Expert**" as well as my professional career have allowed me to acquire solid and adaptive skills.
+
+👷‍♂️ This **technical knowledge**, also acquired thanks to my good understanding of English, was expressed around the realization (in particular) of **business web applications** but also in **project management** and **customer relations**.
+
+👍 A few technologies I like and often work with : **NodeJS** (Nest, Express), **Javascript** (React, Vanilla, PWA), **Deno**, **SGBD** (MSSQL, Mongo, MySQL), **.NET Core**, **PHP** (Symfony, Wordpress).
+
+📬 Contact me on [Linkedin](https://www.linkedin.com/in/kirian-caumes-120a0513a/) or by [mail](mailto:kirian.caumes@gmail.com).
+
+🔗 See more about me at: [kiriancaumes.fr](https://kiriancaumes.fr).
+
+👨‍💻 See some projects that I'm proud of below 👇
