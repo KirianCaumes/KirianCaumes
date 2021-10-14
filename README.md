@@ -8,7 +8,7 @@
 
 👷‍♂️ This **technical knowledge**, also acquired thanks to my good understanding of English, was expressed around the realization (in particular) of **business web applications** but also in **project management** and **customer relations**.
 
-👍 A few technologies I like and often work with : **NodeJS** (Nest, Express), **Javascript** (React, Vanilla, PWA), **Deno**, **SGBD** (MSSQL, Mongo, MySQL), **.NET Core**, **PHP** (Symfony, Wordpress).
+👍 A few technologies I like and often work with : **NodeJS** (Nest, Express), **Javascript/Typescript** (React, Vanilla, PWA), **Deno**, **SGBD** (MSSQL, Mongo, MySQL), **.NET Core**, **PHP** (Symfony, Wordpress), and more...
 
 📬 Contact me on [Linkedin](https://www.linkedin.com/in/kirian-caumes-120a0513a/) or by [mail](mailto:kirian.caumes@gmail.com).
 
