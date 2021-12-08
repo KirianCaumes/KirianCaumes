@@ -14,4 +14,6 @@
 
 🔗 See more about me at: [kiriancaumes.fr](https://kiriancaumes.fr).
 
+📰 See my blog posts: [medium.com/@kirian.caumes](https://medium.com/@kirian.caumes).
+
 👨‍💻 See some projects that I'm proud of below 👇
