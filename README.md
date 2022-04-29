@@ -10,7 +10,7 @@
 
 👍 A few technologies I like and often work with : **NodeJS** (Nest, Express), **Javascript/Typescript** (React, Next.js, Vanilla, PWA), **Deno**, **SGBD** (MSSQL, Mongo, MySQL), **.NET Core**, **PHP** (Symfony, Wordpress), and more...
 
-📬 Contact me on [Linkedin](https://www.linkedin.com/in/kirian-caumes-120a0513a/) or by [mail](mailto:kirian.caumes@gmail.com).
+📬 Contact me on [Linkedin](https://www.linkedin.com/in/kirian-caumes) or by [mail](mailto:kirian.caumes@gmail.com).
 
 🔗 See more about me at: [kiriancaumes.fr](https://kiriancaumes.fr).
 
