@@ -4,7 +4,7 @@
 
 💁‍♂️ I'm **Kirian CAUMES**, a **25 years old** **full stack developer**, located near **Nantes, France** 🇫🇷.
 
-👨‍🎓 I've been working in the IT industry for more than **5 years** now. My studies at Ynov Nantes with my master's degree in "**Web Development Expert**" as well as my professional career have allowed me to acquire solid and adaptive skills.
+👨‍🎓 I've been working in the IT industry for more than **5 years** now. My studies at Ynov Nantes with my master's degree in "**Web Development Expert**" and my RNCP title "**IT and Information Systems Expert**", as well as my professional career, have allowed me to acquire solid and adaptive skills.
 
 👷‍♂️ This **technical knowledge**, also acquired thanks to my good understanding of English, was expressed around the realization (in particular) of **business web applications** but also in **project management** and **customer relations**.
 
