@@ -2,7 +2,7 @@
 
 > [General Kenobi... 🤺](https://youtu.be/rEq1Z0bjdwc)
 
-💁‍♂️ I'm **Kirian CAUMES**, a **25 years old** **full stack developer**, located near **Nantes, France** 🇫🇷.
+💁‍♂️ I'm **Kirian CAUMES**, a **26 years old** **full stack developer**, located near **Nantes, France** 🇫🇷.
 
 👨‍🎓 I've been working in the IT industry for more than **5 years** now. My studies at Ynov Nantes with my master's degree in "**Web Development Expert**" and my RNCP title "**IT and Information Systems Expert**", as well as my professional career, have allowed me to acquire solid and adaptive skills.
 
