@@ -12,8 +12,8 @@
 
 📬 Contact me on [Linkedin](https://www.linkedin.com/in/kirian-caumes) or by [mail](mailto:kirian.caumes@gmail.com).
 
-🔗 See more about me at: [kiriancaumes.fr](https://kiriancaumes.fr).
+🔗 Learn more about me at: [kiriancaumes.fr](https://kiriancaumes.fr).
 
-📰 See my blog posts: [medium.com/@kirian.caumes](https://medium.com/@kirian.caumes).
+📰 Read my blog posts: [medium.com/@kirian.caumes](https://medium.com/@kirian.caumes).
 
 👨‍💻 See some projects that I'm proud of below 👇
