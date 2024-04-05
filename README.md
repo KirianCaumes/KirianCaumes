@@ -17,7 +17,6 @@
 👨‍🎓 I've been working in the IT industry for more than **8 years** now. My studies at Ynov Nantes with my master's degree in "**Web Development Expert**" and my RNCP title "**IT and Information Systems Expert**", as well as my professional career, have allowed me to acquire solid and adaptive skills.
 
 📖 On Github, I also share Open Source projects that I work on in my free time. Their main objective is to resolve my various small daily problems and perhaps also yours.
-[![Support me](https://img.shields.io/badge/Support%20me-003087?logo=PayPal&logoColor=fff)](https://www.paypal.com/paypalme/KirianCaumes)
 
 👍 A few technologies I like and often work with : **Typescript/Javascript** (React, Next.js, Vanilla, PWA), **NodeJS** (Nest, Express), **SGBD** (MSSQL, Mongo, PostgreSQL, MySQL), **Python** (FastAPI, LlamaIndex), **.NET Core** (C#), **Azure**, **PHP** (Symfony, Wordpress), and many more...
 
