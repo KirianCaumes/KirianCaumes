@@ -56,18 +56,6 @@ On GitHub, I share **open source projects** I build in my free time, most of the
 
 ---
 
-### 🧩 Featured Projects  
-
-*A few open source projects I like (more on my profile).*
-
-- [**Discogs-Marketplace-API-NodeJS**](github.com/KirianCaumes/Discogs-Marketplace-API-NodeJS): A modern TypeScript/Node.js client for scraping and retrieving Discogs Marketplace listings — flexible, type safe, and easy to use. 💿
-- [**FFHB-Championship-Calendar-Generator**](https://github.com/KirianCaumes/FFHB-Championship-Calendar-Generator): Generate a link to synchronize content of the entire championship of your FFHB team. 🗓️
-- [**Discogs-Notification-On-New-Items**](https://github.com/KirianCaumes/Discogs-Notification-On-New-Items): A useful script to get email notification of new items by an artist on Discogs. 📨
-
-*Psst... I’ve got some even cooler projects hiding in private repos. Maybe I’ll show you one day 😉*
-
----
-
 ### 📧 Connect with me
 
 *Find me around the web or get in touch directly.*
@@ -76,3 +64,9 @@ On GitHub, I share **open source projects** I build in my free time, most of the
 [![Portfolio](https://img.shields.io/badge/Website-0f3460?logo=https://kiriancaumes.fr/icon.svg&logoColor=white)](https://kiriancaumes.fr)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@kirian.caumes)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirian.caumes@gmail.com)
+
+### 🧩 Featured Projects  
+
+Dive into all of [my repositories](https://github.com/KirianCaumes?tab=repositories), or take a look at some of my pinned projects below and you might discover something that sparks your interest! 👇
+
+*Psst... I’ve got some even cooler projects hiding in private repos. Maybe I’ll show you one day 😉*
